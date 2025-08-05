@@ -21,3 +21,16 @@ p{
 img{
   width: 200px;
 }
+
+input{
+  border-radius: 5px;
+  border: 2px solid #c3d0d6;
+  background-color: transparent;
+  padding: 5px;
+  width: 30%;
+  color: white;
+}
+
+input::placeholder{
+  color: white;
+}
