@@ -17,3 +17,7 @@ p{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   letter-spacing: 5px;
 }
+
+img{
+  width: 200px;
+}
