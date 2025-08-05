@@ -5,3 +5,15 @@ body{
 .App{
   text-align: center;
 }
+
+h1{
+  color: white;
+  font-family: fantasy;
+  letter-spacing: 5px;
+}
+
+p{
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 5px;
+}
