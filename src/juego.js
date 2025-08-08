@@ -9,7 +9,7 @@ function Juego(props) {
     }
 
     function comprobarNumeroMaquina() {
-        if(numeroUsuario === numeroMaquina) {
+        if(numeroUsuario == numeroMaquina) {
             alert("Adivinaste!🎉");
         } else{
             alert("Fallaste😓, la respuesta era " + numeroMaquina);
